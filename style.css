@@ -1,0 +1,43 @@
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:inherit;
+    font-weight:bold ;
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 900;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: aqua;
+}
+
+img{
+    width: 30%;
+    border-radius: 10%;
+    padding: 30%;
+    box-shadow: 10in;
+}    
+
+img:hover{
+    width: 40%;
+    border-radius: 20%;
+    padding: 40%;
+    box-shadow: 20in;
+
+}
+
+
+
+
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
